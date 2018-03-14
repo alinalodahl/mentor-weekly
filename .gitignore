@@ -3,6 +3,7 @@
 .env
 deploy.sh
 now.json
+.idea
 
 # dependencies
 node_modules
