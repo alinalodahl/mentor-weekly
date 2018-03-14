@@ -1,4 +1,4 @@
-# Mentor Weekly T0-DO:
+# Mentor Weekly TO-DO:
 
 ---
 
